@@ -3,7 +3,7 @@ title: Learning GitHub Pages
 author: Dan Acello
 email: dsacello@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
- This is a test website hosted by GitHub pages to test functionality while learning. 
+ This is a test website hosted by GitHub Pages to test functionality while learning. 
 
 # social links
 twitter_username: N/A # DO NOT include the @ character, or else the build will fail!
